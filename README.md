@@ -1,7 +1,7 @@
-# Project Summary
+## Project Summary
 This is an exploratory project for the Stroke Prediction Dataset found at Kaggle. Details of the dataset can be found at this [link](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset).
 
-# Methodology
+## Methodology
 One hot encoding was done on the categorical variables before fitting them into a logistic regression to predict the probability of having a stroke. 
 
 ## Built With
