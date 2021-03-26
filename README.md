@@ -2,7 +2,8 @@
 This is an exploratory project for the Stroke Prediction Dataset found at Kaggle. Details of the dataset can be found at this [link](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset).
 
 ## Methodology
-One hot encoding was done on the categorical variables before fitting them into a logistic regression to predict the probability of having a stroke. 
+One hot encoding was done on the categorical variables before fitting them into a logistic regression to predict the probability of having a stroke.
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
 ## Built With
 The files included in this repository are written using **Google Collab**. Google Collab is a Google research project created to help disseminate machine learning education and research. It's a Jupyter notebook environment that requires no setup to use and runs entirely in the cloud. 
