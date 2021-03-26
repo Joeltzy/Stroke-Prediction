@@ -5,7 +5,7 @@ This is an exploratory project for the Stroke Prediction Dataset found at Kaggle
 The files included in this repository are written using **Google Collab**. Google Collab is a Google research project created to help disseminate machine learning education and research. It's a Jupyter notebook environment that requires no setup to use and runs entirely in the cloud. 
 
 ## File Structure
-*```healthcare-dataset-stroke-data.csv```: Stroke Prediction Dataset found at Kaggle
+* ```healthcare-dataset-stroke-data.csv```: Stroke Prediction Dataset found at Kaggle
 * ```Stroke Prediction.ipynb```: Source code for Stroke Prediction.
 
 ## Running the project for evaluation
